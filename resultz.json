@@ -1,0 +1,344 @@
+{
+  "numTotalTestSuites": 1,
+  "numPassedTestSuites": 1,
+  "numFailedTestSuites": 0,
+  "numPendingTestSuites": 0,
+  "numTotalTests": 20,
+  "numPassedTests": 0,
+  "numFailedTests": 20,
+  "numPendingTests": 0,
+  "numTodoTests": 0,
+  "startTime": 1706530225489,
+  "success": false,
+  "testResults": [
+    {
+      "assertionResults": [
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " contexts klasöründe CartContext.Provider oluşturulmuş",
+          "status": "failed",
+          "title": "contexts klasöründe CartContext.Provider oluşturulmuş",
+          "duration": 27,
+          "failureMessages": [
+            "ProductContextProvider is not defined"
+          ],
+          "location": {
+            "line": 16,
+            "column": 238
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " CartContext.jsx dosyasında createContext() ile context oluşturulmuş",
+          "status": "failed",
+          "title": "CartContext.jsx dosyasında createContext() ile context oluşturulmuş",
+          "duration": 3,
+          "failureMessages": [
+            "ProductContextProvider is not defined"
+          ],
+          "location": {
+            "line": 16,
+            "column": 238
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " CartContext.jsx dosyasında CartContext.Provider tanımlanmış",
+          "status": "failed",
+          "title": "CartContext.jsx dosyasında CartContext.Provider tanımlanmış",
+          "duration": 4,
+          "failureMessages": [
+            "ProductContextProvider is not defined"
+          ],
+          "location": {
+            "line": 16,
+            "column": 238
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " contexts klasöründe CartContext Providera valuelar aktarılmış",
+          "status": "failed",
+          "title": "contexts klasöründe CartContext Providera valuelar aktarılmış",
+          "duration": 3,
+          "failureMessages": [
+            "ProductContextProvider is not defined"
+          ],
+          "location": {
+            "line": 16,
+            "column": 238
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " contexts klasöründe ProductContext.jsx dosyası oluşturulmuş",
+          "status": "failed",
+          "title": "contexts klasöründe ProductContext.jsx dosyası oluşturulmuş",
+          "duration": 3,
+          "failureMessages": [
+            "ProductContextProvider is not defined"
+          ],
+          "location": {
+            "line": 16,
+            "column": 238
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " CartContext.jsx dosyasında createContext() ile context oluşturulmuş",
+          "status": "failed",
+          "title": "CartContext.jsx dosyasında createContext() ile context oluşturulmuş",
+          "duration": 4,
+          "failureMessages": [
+            "ProductContextProvider is not defined"
+          ],
+          "location": {
+            "line": 16,
+            "column": 238
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " CartContext.jsx dosyasında CartContext.Provider tanımlanmış",
+          "status": "failed",
+          "title": "CartContext.jsx dosyasında CartContext.Provider tanımlanmış",
+          "duration": 3,
+          "failureMessages": [
+            "ProductContextProvider is not defined"
+          ],
+          "location": {
+            "line": 16,
+            "column": 238
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " contexts klasöründe CartContext Providera valuelar aktarılmış",
+          "status": "failed",
+          "title": "contexts klasöründe CartContext Providera valuelar aktarılmış",
+          "duration": 2,
+          "failureMessages": [
+            "ProductContextProvider is not defined"
+          ],
+          "location": {
+            "line": 16,
+            "column": 238
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " App.jsxde oluşturulan her 2 provider da kullanılmış",
+          "status": "failed",
+          "title": "App.jsxde oluşturulan her 2 provider da kullanılmış",
+          "duration": 3,
+          "failureMessages": [
+            "ProductContextProvider is not defined"
+          ],
+          "location": {
+            "line": 16,
+            "column": 238
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " App.jsxde useStateler (import ve tanımlamalar) silinmiş",
+          "status": "failed",
+          "title": "App.jsxde useStateler (import ve tanımlamalar) silinmiş",
+          "duration": 3,
+          "failureMessages": [
+            "ProductContextProvider is not defined"
+          ],
+          "location": {
+            "line": 16,
+            "column": 238
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " App.jsxde Products componentine gönderilen proplar (products, addItem) silinmiş",
+          "status": "failed",
+          "title": "App.jsxde Products componentine gönderilen proplar (products, addItem) silinmiş",
+          "duration": 2,
+          "failureMessages": [
+            "ProductContextProvider is not defined"
+          ],
+          "location": {
+            "line": 16,
+            "column": 238
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " App.jsxde Navigation componentine gönderilen prop (cart) silinmiş",
+          "status": "failed",
+          "title": "App.jsxde Navigation componentine gönderilen prop (cart) silinmiş",
+          "duration": 4,
+          "failureMessages": [
+            "ProductContextProvider is not defined"
+          ],
+          "location": {
+            "line": 16,
+            "column": 238
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " App.jsxde ShoppingCart componentine gönderilen prop (cart) silinmiş",
+          "status": "failed",
+          "title": "App.jsxde ShoppingCart componentine gönderilen prop (cart) silinmiş",
+          "duration": 4,
+          "failureMessages": [
+            "ProductContextProvider is not defined"
+          ],
+          "location": {
+            "line": 16,
+            "column": 238
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " contextAPI eklendikten sonra ana sayfa 4 kitabı da geririyor.",
+          "status": "failed",
+          "title": "contextAPI eklendikten sonra ana sayfa 4 kitabı da geririyor.",
+          "duration": 4,
+          "failureMessages": [
+            "ProductContextProvider is not defined"
+          ],
+          "location": {
+            "line": 16,
+            "column": 238
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " İlk kitapta Add to cart butonuna tıklanınca sağ üst cartta 1 yazıyor",
+          "status": "failed",
+          "title": "İlk kitapta Add to cart butonuna tıklanınca sağ üst cartta 1 yazıyor",
+          "duration": 3,
+          "failureMessages": [
+            "ProductContextProvider is not defined"
+          ],
+          "location": {
+            "line": 16,
+            "column": 238
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " İkinci kitapta Add to cart butonuna tıklanınca sağ üst cartta 2 yazıyor",
+          "status": "failed",
+          "title": "İkinci kitapta Add to cart butonuna tıklanınca sağ üst cartta 2 yazıyor",
+          "duration": 4,
+          "failureMessages": [
+            "ProductContextProvider is not defined"
+          ],
+          "location": {
+            "line": 16,
+            "column": 238
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " İlk kitapta Add to cart butonuna tıklanınca sepete ekliyor",
+          "status": "failed",
+          "title": "İlk kitapta Add to cart butonuna tıklanınca sepete ekliyor",
+          "duration": 4,
+          "failureMessages": [
+            "ProductContextProvider is not defined"
+          ],
+          "location": {
+            "line": 16,
+            "column": 238
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Cart sayfasında Remove from cart kitabı sepetten çıkarıyor",
+          "status": "failed",
+          "title": "Cart sayfasında Remove from cart kitabı sepetten çıkarıyor",
+          "duration": 3,
+          "failureMessages": [
+            "ProductContextProvider is not defined"
+          ],
+          "location": {
+            "line": 16,
+            "column": 238
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Cart bilgisi localStoragea s11g1 keyi ile saklanıyor",
+          "status": "failed",
+          "title": "Cart bilgisi localStoragea s11g1 keyi ile saklanıyor",
+          "duration": 5,
+          "failureMessages": [
+            "ProductContextProvider is not defined"
+          ],
+          "location": {
+            "line": 16,
+            "column": 238
+          }
+        },
+        {
+          "ancestorTitles": [
+            ""
+          ],
+          "fullName": " Cart bilgisi localStorageda güncelleniyor",
+          "status": "failed",
+          "title": "Cart bilgisi localStorageda güncelleniyor",
+          "duration": 3,
+          "failureMessages": [
+            "ProductContextProvider is not defined"
+          ],
+          "location": {
+            "line": 16,
+            "column": 238
+          }
+        }
+      ],
+      "startTime": 1706541480161,
+      "endTime": 1706541480253,
+      "status": "failed",
+      "message": "",
+      "name": "/home/projects/vitejs-vite-3p2zcv/src/__tests__/index.test.jsx"
+    }
+  ]
+}
